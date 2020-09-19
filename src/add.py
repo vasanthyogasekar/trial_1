@@ -1,5 +1,5 @@
 def add(a,b,c):
-    sum_of_two_number=a+b+c
-    print(sum_of_two_number)
+    addition=a+b+c
+    print(addition)
 add(1,2,3)
 
