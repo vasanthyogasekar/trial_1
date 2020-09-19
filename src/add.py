@@ -1,5 +1,5 @@
 def add(a,b):
-    sum_of_two=a+b
-    print(sum_of_two)
+    sum=a+b
+    print(sum)
 
 add(1,2)
