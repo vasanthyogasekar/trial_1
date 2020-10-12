@@ -6,9 +6,9 @@ def multi(a,b,c,d):
     multi=a*b*c*d
     print(multi)
 
-def sub(a,b):
-    sub=a-b
-    print("the value of subtraction is ",sub)
+def div(a,b):
+    div=a/b
+    print("the value of subtraction is ",div)
 
 add(1,2,3)
 
