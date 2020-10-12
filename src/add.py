@@ -10,6 +10,11 @@ def div(a,b):
     div=a/b
     print("the value of subtraction is ",div)
 
+def mod(a,b):
+    mod=a%b
+    print("the value of mod is ",mod)
+
+
 add(1,2,3)
 
 print("checking rebase")
