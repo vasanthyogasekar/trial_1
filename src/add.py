@@ -8,7 +8,7 @@ def multi(a,b,c,d):
 
 def sub(a,b):
     sub=a-b
-    print("the value of a - b is ",sub)
+    print("the value of sub is ",sub)
 
 add(1,2,3)
 
