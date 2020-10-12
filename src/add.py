@@ -12,5 +12,5 @@ def sub(a,b):
 
 add(1,2,3)
 
-print(""checking rebase)
+print("checking rebase")
 
